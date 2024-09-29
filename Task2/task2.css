@@ -1,0 +1,27 @@
+body {
+    margin-left: 150px;
+    margin-top: 150px;
+}
+
+button {
+    width: 430px;
+    height: 50px;
+    border-radius: 5px;
+    background: #07974f;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    cursor: pointer;
+    margin-top: 35px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+#second-icon {
+    display: none;
+}
+

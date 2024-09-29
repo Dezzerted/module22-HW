@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+button {
+    width: 580px;
+    height: 50px;
+    border-radius: 5px;
+    background: #68f386;
+    text-transform: uppercase;
+    color: #550efa;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    cursor: pointer;
+    margin-top: 35px;
+}
+
+p {
+    font-size: 25px;
+    padding: 25px 0px;
+    font-weight: bold;
+}
+
